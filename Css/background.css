@@ -1,0 +1,7 @@
+body {
+    min-height: 100vh;
+    background: rgb(32, 57, 141);
+    background: linear-gradient(to bottom left, #2a2a2a, #1a1a1a);
+    font-family: system-ui;
+    margin: 0%;
+  }

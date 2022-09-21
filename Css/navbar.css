@@ -1,0 +1,5 @@
+.navbar{
+    background: linear-gradient(90deg, rgba(0,0,0,1) 13%, rgba(2,0,36,1) 46%, rgba(16,16,182,1) 89%);
+    font-family: system-ui;
+    padding: 5px;
+}
