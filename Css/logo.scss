@@ -1,12 +1,10 @@
+
 body {
   min-height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
   background: #222;
   background: linear-gradient(to bottom left, #2a2a2a, #1a1a1a);
   font-family: system-ui;
-}
+}dasda
 
 .keyborad {
   --radius: 4vmin;
@@ -14,6 +12,8 @@ body {
   --green: rgb(100, 200, 100);
   --blue: rgb(100, 100, 255);
   
+  height:min-content;
+  width:min-content;
   background-color: #111;
   padding: 2vmin;
   border-radius: var(--radius);
