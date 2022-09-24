@@ -10,7 +10,7 @@
   width: -webkit-min-content;
   width: -moz-min-content;
   width: min-content;
-  background-color: #111;
+  /*background-color: #111;*/
   border-radius: var(--radius);
   position: relative;
   box-sizing: border-box;
