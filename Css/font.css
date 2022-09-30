@@ -1,11 +1,11 @@
 .font{
     font-family: 'Press Start 2P', cursive;
-    color: aliceblue;
+    color: #f0f8ff;
     
 }
 .font2{
     font-family: 'Fira Code', monospace;
-    color: #414EE0;
+    color: #414ee0;
     
 }
 a:link { text-decoration: none; }

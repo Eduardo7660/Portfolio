@@ -1,7 +1,7 @@
 .navbar{
     justify-content: center;
-    background: rgb(12,12,160);
-    background: linear-gradient(90deg, rgba(12,12,160,1) 0%, rgba(3,2,51,1) 40%, rgba(5,4,73,1) 60%, rgba(14,14,184,1) 100%);
+    background: #0c0ca0;
+    background: linear-gradient(90deg, #0c0ca0 0%, rgba(3,2,51,1) 40%, rgba(5,4,73,1) 60%, rgba(14,14,184,1) 100%);
     /* background-color: black; */
     font-family: system-ui;
     padding: 5px;
