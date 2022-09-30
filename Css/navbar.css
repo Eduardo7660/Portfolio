@@ -1,5 +1,8 @@
 .navbar{
-    background: linear-gradient(90deg, rgba(0,0,0,1) 13%, rgba(2,0,36,1) 46%, rgba(16,16,182,1) 89%);
+    justify-content: center;
+    background: rgb(12,12,160);
+    background: linear-gradient(90deg, rgba(12,12,160,1) 0%, rgba(3,2,51,1) 40%, rgba(5,4,73,1) 60%, rgba(14,14,184,1) 100%);
+    /* background-color: black; */
     font-family: system-ui;
     padding: 5px;
 }
